@@ -1,0 +1,366 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"va",
+				"validationMessage"
+			],
+			[
+				"valid",
+				"validationMessage"
+			],
+			[
+				"inpu",
+				"inputChangedHandler"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"Char",
+				"CharComponent"
+			],
+			[
+				"char",
+				"charStringLength"
+			],
+			[
+				"charStrin",
+				"charStringArray"
+			],
+			[
+				"string",
+				"stringChangedHandler"
+			],
+			[
+				"name",
+				"nameChangedHandler"
+			],
+			[
+				"person",
+				"personIndex"
+			],
+			[
+				"user",
+				"username"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Chris/udemy/links.txt",
+			"settings":
+			{
+				"buffer_size": 54,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "https://reactjs.org/docs/events.html#supported-eve"
+			}
+		},
+		{
+			"file": "src/App.js",
+			"settings":
+			{
+				"buffer_size": 2452,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Person/Person.js",
+			"settings":
+			{
+				"buffer_size": 341,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 170.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Chris/udemy/react-complete-guide",
+		"/C/Users/Chris/udemy/react-complete-guide/src",
+		"/C/Users/Chris/udemy/react-complete-guide/src/Person",
+		"/C/Users/Chris/udemy/lists-conditionals-assignment-problem",
+		"/C/Users/Chris/udemy/lists-conditionals-assignment-problem/src",
+		"/C/Users/Chris/udemy/lists-conditionals-assignment-problem/src/Char",
+		"/C/Users/Chris/udemy/lists-conditionals-assignment-problem/src/Validation"
+	],
+	"file_history":
+	[
+		"/C/Users/Chris/udemy/lists-conditionals-assignment-problem/src/Validation/Validation.js",
+		"/C/Users/Chris/udemy/lists-conditionals-assignment-problem/src/ValidationComponent/ValidationComponent.js",
+		"/C/Users/Chris/udemy/lists-conditionals-assignment-problem/src/Char/Char.js",
+		"/C/Users/Chris/udemy/lists-conditionals-assignment-problem/src/CharComponent/CharComponent.css",
+		"/C/Users/Chris/udemy/lists-conditionals-assignment-problem/src/App.js",
+		"/C/Users/Chris/udemy/lists-conditionals-assignment-problem/src/Char/Char.css",
+		"/C/Users/Chris/udemy/lists-conditionals-assignment-problem/src/CharComponent/CharComponent.js",
+		"/C/Users/Chris/udemy/lists-conditionals-assignment-problem/src/CharComponent/CharComponent_bak.js",
+		"/C/Users/Chris/udemy/lists-conditionals-assignment-problem/src/ValidationComponent/ValidationComponent_bak.js",
+		"/C/Users/Chris/udemy/lists-conditionals-assignment-problem/src/App_bak.js",
+		"/C/Users/Chris/udemy/lists-conditionals--assignment-problem-bak/src/App.js",
+		"/C/Users/Chris/udemy/lists-conditionals-assignment-problem/src/App.css",
+		"/C/Users/Chris/udemy/lists-conditionals--assignment-problem-bak/src/App.css",
+		"/C/Users/Chris/Dropbox/Personal/Job Search Log.txt",
+		"/C/Users/Chris/udemy/react-complete-guide/exercise1/src/App.js",
+		"/C/Users/Chris/udemy/react-complete-guide/exercise1/src/UserInput/UserInput.js",
+		"/C/Users/Chris/udemy/react-complete-guide/exercise1/src/UserInput/UserInput.css",
+		"/C/Users/Chris/udemy/react-complete-guide/exercise1/src/UserOutput/UserOutput.js",
+		"/C/Users/Chris/udemy/react-complete-guide/src/Person/Person.css",
+		"/C/Users/Chris/udemy/react-complete-guide/exercise1/src/App.css",
+		"/C/Users/Chris/udemy/react-complete-guide/src/index.css",
+		"/C/Users/Chris/udemy/react-complete-guide/src/App.css"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"h1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Chris/udemy/links.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 54,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								54,
+								54
+							]
+						],
+						"settings":
+						{
+							"auto_name": "https://reactjs.org/docs/events.html#supported-eve",
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2065,
+								2065
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 966.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/Person/Person.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								311,
+								311
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "react-complete-guide.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
